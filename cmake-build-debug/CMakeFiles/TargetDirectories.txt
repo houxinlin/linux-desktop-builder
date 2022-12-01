@@ -1,3 +1,0 @@
-/home/HouXinLin/projects/c/desktop-builder/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/HouXinLin/projects/c/desktop-builder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/HouXinLin/projects/c/desktop-builder/cmake-build-debug/CMakeFiles/gtk_demo.dir

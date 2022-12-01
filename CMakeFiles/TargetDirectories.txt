@@ -1,0 +1,3 @@
+/home/HouXinLin/projects/c/desktop-builder/CMakeFiles/desktop-builder.dir
+/home/HouXinLin/projects/c/desktop-builder/CMakeFiles/edit_cache.dir
+/home/HouXinLin/projects/c/desktop-builder/CMakeFiles/rebuild_cache.dir

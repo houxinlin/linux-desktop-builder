@@ -135,10 +135,6 @@ int main(int argc, char **argv) {
 
     GtkBuilder *builder = NULL;
     gtk_init(&argc, &argv);
-    char *buf;
-    buf=(char *)malloc(100*sizeof(char));
-    getcwd(buf,100);
-    printf("\n %s \n",buf);
 
     builder = gtk_builder_new();
     if (gtk_builder_add_from_file(builder, "gtk.glade", NULL) == 0) {
