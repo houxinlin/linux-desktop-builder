@@ -1,3 +1,9 @@
 # linux-desktop-builder
 
-Linux床创建Desktop工具
+Linux创建Desktop工具
+
+```c
+cmake .
+make
+./desktop-builder
+```
