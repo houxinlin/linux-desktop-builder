@@ -7,6 +7,7 @@ Makefile
 CMakeFiles
 Testing
 <output>
+
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
